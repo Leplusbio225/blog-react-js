@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Comprendre les Props",
+      "content": "Découvrez comment passer des données entre vos composants React grâce aux props.",
+      "created_at": "2025-12-24"
+    },
+    {
+      "id": 2,
+      "title": "Hooks indispensables",
+      "content": "useState et useEffect sont les hooks les plus utilisés pour gérer l’état et les effets.",
+      "created_at": "2025-12-24"
+    },
+    {
+      "id": 3,
+      "title": "Composants réutilisables",
+      "content": "Structurez vos composants pour qu’ils puissent être réutilisés facilement dans toute l’application.",
+      "created_at": "2025-12-24"
+    },
+    {
+      "id": 4,
+      "title": "Gestion du state global",
+      "content": "Context API permet de partager l’état entre plusieurs composants sans props drilling.",
+      "created_at": "2025-12-24"
+    },
+    {
+      "id": 5,
+      "title": "Optimisation des performances",
+      "content": "Utilisez React.memo et useCallback pour éviter les rendus inutiles de composants.",
+      "created_at": "2025-12-24"
+    },
+    {
+      "id": "8cf6",
+      "title": "Libellé du projet",
+      "content": "Oui, il y a bien une différence — et ce n’est pas l’orthographe du composant, mais un espace en trop dans le chemin du premier import.",
+      "created_at": "24/12/2025"
+    }
+  ]
+}
